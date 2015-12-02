@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/libs/anymote.jar" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/libs/bcprov-jdk15-143.jar" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/libs/polo.jar" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/libs/protobuf-java-2.2.0-lite.jar" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/google/android/apps/tvremote/AboutActivity.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/google/android/apps/tvremote/ApplicationVariantConfig.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/google/android/apps/tvremote/BaseActivity.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/google/android/apps/tvremote/BroadcastAdvertisement.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/google/android/apps/tvremote/BroadcastDiscoveryClient.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/google/android/apps/tvremote/ConnectionManager.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/google/android/apps/tvremote/CoreService.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/google/android/apps/tvremote/CoreServiceActivity.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/google/android/apps/tvremote/DeviceFinder.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/google/android/apps/tvremote/KeyStoreManager.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/google/android/apps/tvremote/KeyboardActivity.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/google/android/apps/tvremote/MainActivity.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/google/android/apps/tvremote/MenuInitializer.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/google/android/apps/tvremote/PairingActivity.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/google/android/apps/tvremote/RemoteDevice.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/google/android/apps/tvremote/Shortcut.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/google/android/apps/tvremote/ShortcutsActivity.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/google/android/apps/tvremote/StartupActivity.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/google/android/apps/tvremote/TextInputHandler.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/google/android/apps/tvremote/TouchHandler.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/google/android/apps/tvremote/TrackballHandler.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/google/android/apps/tvremote/TutorialActivity.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/google/android/apps/tvremote/backport/ScaleGestureDetector.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/google/android/apps/tvremote/backport/ScaleGestureDetectorFactory.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/google/android/apps/tvremote/backport/ScaleGestureDetectorImpl.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/google/android/apps/tvremote/layout/FixedLayout.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/google/android/apps/tvremote/layout/SlidingLayout.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/google/android/apps/tvremote/protocol/AckManager.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/google/android/apps/tvremote/protocol/AnymoteSender.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/google/android/apps/tvremote/protocol/Command.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/google/android/apps/tvremote/protocol/Commands.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/google/android/apps/tvremote/protocol/DummySender.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/google/android/apps/tvremote/protocol/ICommandSender.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/google/android/apps/tvremote/protocol/ProtocolConstants.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/google/android/apps/tvremote/protocol/QueuingSender.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/google/android/apps/tvremote/util/Action.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/google/android/apps/tvremote/util/Debug.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/google/android/apps/tvremote/util/LimitedLinkedHashMap.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/google/android/apps/tvremote/widget/FadingTextView.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/google/android/apps/tvremote/widget/HighlightView.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/google/android/apps/tvremote/widget/ImeInterceptView.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/google/android/apps/tvremote/widget/KeyCodeButton.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/google/android/apps/tvremote/widget/SoftDpad.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res" charset="windows-1252" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
